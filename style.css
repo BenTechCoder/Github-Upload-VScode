@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
+
+body {
+    font-size: large;
+    font-family: 'Syne Mono', 'catamaran';
+    color: blueviolet;
+    text-align: center;
+    background-image: url(https://1.bp.blogspot.com/-IEB4ld6Q3WY/XoeFliBDy0I/AAAAAAAAE2g/yvWpDKHe350wNJoEaq3DKKmB091AOTULwCKgBGAsYHg/w1200-h630-p-k-no-nu/IMG_20200403_144736-01.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
